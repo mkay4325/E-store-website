@@ -1,2 +1,2 @@
-# e-store
+# E-store
 Web Dev Internshala Project
